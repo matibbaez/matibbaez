@@ -17,6 +17,6 @@
 
 ### 👨‍💻 About Me :
 
-- Website [https://matibbaez.000webhostapp.com/](https://matibbaez.000webhostapp.com/)
-- How to reach me **matibbaez1@gmail.com**
-- Im currently learning **React.js**
+- 🌐 Website [https://matibbaez.000webhostapp.com/](https://matibbaez.000webhostapp.com/)
+- 💬 How to reach me **matibbaez1@gmail.com**
+- 📖 I'm currently learning **React.js**

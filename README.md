@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/14tvbepZ8vhU40/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I'm Matías</h1>
-    <h3 align="center">A passionate Front-end Developer from Argentina.</h3>
+    <h3 align="center">A passionate Developer from Argentina.</h3>
 </div>
 
 <div id="badges" align="center">
@@ -19,4 +19,4 @@
 
 - 🌐 Website [https://new-portfolio-matibbaez.vercel.app/](https://new-portfolio-matibbaez.vercel.app/)
 - 💬 How to reach me **matibbaez1@gmail.com**
-- 📖 I'm currently learning **React.js**
+- 📖 I'm currently learning **Python**

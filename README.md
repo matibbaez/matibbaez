@@ -17,6 +17,6 @@
 
 ### 👨‍💻 About Me :
 
-- 🌐 Website [https://new-portfolio-matibbaez.vercel.app/]([(https://matias-baez.vercel.app/)])
+- 🌐 Website [https://matias-baez.vercel.app/](https://matias-baez.vercel.app/)
 - 💬 How to reach me **matibbaez1@gmail.com**
 - 📖 I'm currently learning **Python**

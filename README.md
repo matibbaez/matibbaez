@@ -17,6 +17,6 @@
 
 ### 👨‍💻 About Me :
 
-- 🌐 Website [https://matiasbaez.com/](https:/matiasbaez.com/)
+- 🌐 Website [matiasbaez.com](matiasbaez.com)
 - 💬 How to reach me **contacto@matiasbaez.com**
 - 📖 I'm currently learning **ReactJS**
